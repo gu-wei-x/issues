@@ -2,6 +2,8 @@
 
 Background task could not trigger in release build with PublishTrimmed enabled by default.
 
+https://github.com/microsoft/CsWinRT/issues/1946
+
 
 # How to test:
 
