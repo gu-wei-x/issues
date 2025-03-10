@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIBackgroundTask (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIBackgroundTask (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
